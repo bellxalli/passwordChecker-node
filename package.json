@@ -1,0 +1,23 @@
+{
+  "name": "passwordchecker-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/bellxalli/passwordChecker-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bellxalli/passwordChecker-node/issues"
+  },
+  "homepage": "https://github.com/bellxalli/passwordChecker-node#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
